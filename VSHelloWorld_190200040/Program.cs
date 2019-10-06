@@ -14,6 +14,7 @@ namespace VSHelloWorld_190200040
         public static void Main(string[] args)
         {
             //Comentário de teste
+            //Nova linha
             CreateHostBuilder(args).Build().Run();
         }
 
